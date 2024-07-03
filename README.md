@@ -15,7 +15,7 @@ This project automates the deployment of infrastructure on Google Cloud Platform
 ## Requirements
 
 Before starting, ensure you have the following installed:
-- Terraform (version x.x.x or higher)
+- Terraform (version v1.9.0 or higher)
 - Google Cloud SDK
 - A GCP account and a configured GCP project
 
